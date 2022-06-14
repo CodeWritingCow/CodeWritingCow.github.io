@@ -16,8 +16,10 @@ I'm a software engineer who enjoys tackling technical challenges and learning ne
 
 * Software Consultant, AI. Reverie (_April 2017_)
 
+* News Reporter, Press Enterprise (_August 2005 - December 2018_)
+
 ## Education
 
-* Hack Reactor | Software Engineering Program, 2019
+* Hack Reactor, Software Engineering Program, 2019
 
-* Sarah Lawrence College | BA, Liberal Arts, 2004
+* Sarah Lawrence College, BA Liberal Arts, 2004
