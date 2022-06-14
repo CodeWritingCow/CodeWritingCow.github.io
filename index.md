@@ -15,3 +15,9 @@ I'm a software engineer who enjoys tackling technical challenges and learning ne
 * Freelance Software Engineer (_March 2018 - March 2020_)
 
 * Software Consultant, AI. Reverie (_April 2017_)
+
+## Education
+
+* Hack Reactor | Software Engineering Program, 2019
+
+* Sarah Lawrence College | BA, Liberal Arts, 2004
