@@ -30,6 +30,8 @@ I'm a software engineer who enjoys tackling technical challenges and learning ne
 
 ## Education
 
+* Drexel University, MS Software Engineering, 2023 - 2026 (expected graduation date)
+
 * Hack Reactor, Software Engineering Program, 2019
 
 * Sarah Lawrence College, BA Liberal Arts, 2004
