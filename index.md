@@ -10,11 +10,13 @@ I'm a software engineer who enjoys tackling technical challenges and learning ne
 
 * **Front End**: JavaScript (ES6+), Angular (thru v13.x), Angular Material, TypeScript, React, RxJS, NgRx, NGXS, jQuery, Bootstrap, Kendo UI, HTML5, CSS3
 
-* **Back End**: Node.js, Express, NestJS, AWS, Heroku, GraphQL, Ruby on Rails, Artillery.js, Loader.io / Databases: MongoDB, Mongoose, SQL, MySQL, PostgreSQL, SQLite, Redis
+* **Back End**: Node.js, Express, NestJS, Go, AWS, Heroku, GraphQL, Ruby on Rails, Artillery.js, Loader.io
+
+* **Databases**: MongoDB, Mongoose, SQL, MySQL, PostgreSQL, SQLite, Redis
 
 * **Testing**: Jasmine, Karma, Istanbul, Mocha, Chai, Jest
 
-* **Tools**: Docker, Git, Jira, Confluence, Bitbucket, Gulp, Babel, Webpack, Postman
+* **Tools**: Docker, Git, Jira, Confluence, Bitbucket, Gulp, Babel, Webpack, Postman 
 
 ## Experience
 
