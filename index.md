@@ -16,7 +16,9 @@ I'm a software engineer who enjoys tackling technical challenges and learning ne
 
 * **Testing**: Jasmine, Karma, Istanbul, Mocha, Chai, Jest
 
-* **Tools**: Docker, Git, Jira, Confluence, Bitbucket, Gulp, Babel, Webpack, Postman 
+* **Tools**: Docker, Git, Jira, Confluence, Bitbucket, Gulp, Babel, Webpack, Postman
+
+* **AI Prompt Engineering**: GitHub Copilot, ChatGPT, Google Gemini
 
 ## Experience
 
