@@ -35,3 +35,7 @@ I'm a software engineer who enjoys tackling technical challenges and learning ne
 * Hack Reactor, Software Engineering Program, 2019
 
 * Sarah Lawrence College, BA Liberal Arts, 2004
+
+## Awards
+
+* Nominee for Comcast's TPX Innovation in Action Award, 2024
