@@ -42,4 +42,6 @@ I'm a software engineer who enjoys tackling technical challenges and learning ne
 
 ## Awards
 
+* Second Place Winner (Code For Philly team), NJDEP's 36th Annual GIS Mapping Contest, 2024
+
 * Nominee for Comcast's TPX Innovation in Action Award, 2024
