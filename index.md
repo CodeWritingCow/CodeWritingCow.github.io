@@ -22,6 +22,8 @@ I'm a software engineer who enjoys tackling technical challenges and learning ne
 
 ## Experience
 
+* Project Co-Lead, Code for Philly (_June 2024 - Present_)
+
 * Software Engineer 2, Comcast (_May 2022 - Present_)
 
 * Associate Consultant, Capgemini (_December 2019 - May 2022_)
