@@ -4,7 +4,7 @@ layout: default
 
 # About Gary
 
-I'm a software engineer who enjoys tackling technical challenges and learning new technologies. In my free time, I like to cook, draw, read history books, and train in kendo and iaido.
+I'm a software engineer who enjoys tackling technical challenges and learning new technologies. In my free time, I like to cook, draw, read history books, and play with cats.
 
 ## Skills
 
@@ -17,8 +17,6 @@ I'm a software engineer who enjoys tackling technical challenges and learning ne
 * **Testing**: Jasmine, Karma, Istanbul, Mocha, Chai, Jest
 
 * **Tools**: Docker, Git, Jira, Confluence, Bitbucket, Gulp, Babel, Webpack, Postman
-
-* **AI Prompt Engineering**: GitHub Copilot, ChatGPT, Google Gemini
 
 ## Experience
 
